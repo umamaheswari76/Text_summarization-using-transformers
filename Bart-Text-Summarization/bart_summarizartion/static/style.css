@@ -1,0 +1,4 @@
+div.hovering:hover{
+    transform: scale(1);
+    box-shadow: 2px 1px 5px tomato;
+}
